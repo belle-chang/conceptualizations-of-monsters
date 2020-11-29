@@ -7,3 +7,10 @@
 @import "contact.scss";
 @import "footer.scss";
 @import "bootstrap-overrides.scss";
+
+
+.fit-image {
+    width: 95%;
+    object-fit: cover;
+    padding-bottom: 4%;
+}
